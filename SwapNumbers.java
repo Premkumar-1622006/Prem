@@ -12,7 +12,7 @@ public class SwapNumbers {
 
         System.out.println("Before swapping: num1 = " + num1 + ", num2 = " + num2);
 
-        // Swapping logic
+       
         int temp = num1;
         num1 = num2;
         num2 = temp;
@@ -22,3 +22,4 @@ public class SwapNumbers {
         sc.close();
     }
 }
+
